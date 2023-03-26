@@ -19,7 +19,9 @@
 #### Inglês
 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/AndreAlmeida01)
-
+<a href="https://cursos.aluralingua.com.br/user/undevalmeida">
+   <img src="https://cdn.imp-multimedia.com/logos/br/cupom-de-desconto-alura-lingua.png" width="100" height = "28">
+</a>
 
 #### Cursos e Certificados
 <a href="https://cursos.alura.com.br/user/undevalmeida">
