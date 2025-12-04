@@ -1,7 +1,32 @@
-<!-- Quantidade de commits por linguagem-->
-<div>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undevalmeida&layout=compact&langs_count=9&theme=dracula&include_all_commits=true&hide_title=true&hide_border=true&border_radius=20&card_width=750" /></p>
-</div>
+Olá! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> Meu nome é André Almeida
+=======================================================================================================================================
 
-<!-- Icone do Linkedin-->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/undev-almeida/)
+Analytics Engineer
+-----------------
+
+* ✉️  Você pode entrar em contato [Outlook](mailto:andrealmeidaa00@outlook.com)
+* 🚀  Trabalho na [Amo Promo](https://www.amopromo.com/)
+
+### Skills
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,docker,git,airflow,bigquery,gcp,aws,excel,pbi"
+    />
+  </a>
+</p>
+
+### Socials
+
+<p align="left">
+  <a href="https://github.com/undevalmeida/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=github"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/undev-almeida/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
+    />
+  </a>
+</p>
