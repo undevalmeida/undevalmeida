@@ -5,7 +5,7 @@ Analytics Engineer
 -----------------
 
 * ✉️  Você pode entrar em contato [Outlook](mailto:andrealmeidaa00@outlook.com)
-* 🚀  Trabalho na [Amo Promo](https://www.amopromo.com/)
+* 🚀  Trabalho na [Media Hero](https://mediahero.ai/)
 
 ### Skills
 <p align="left">
